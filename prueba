@@ -1,0 +1,7 @@
+echo "# Mi_LaTeX" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Victoria77/Mi_LaTeX.git
+git push -u origin main
